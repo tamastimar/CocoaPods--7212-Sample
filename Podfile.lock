@@ -1,0 +1,16 @@
+PODS:
+  - ObjectivePGP (0.9.4)
+
+DEPENDENCIES:
+  - ObjectivePGP (from `./ObjectivePGP.podspec`)
+
+EXTERNAL SOURCES:
+  ObjectivePGP:
+    :podspec: ./ObjectivePGP.podspec
+
+SPEC CHECKSUMS:
+  ObjectivePGP: e02abce2b62bc07e26e350112b1c1b5e099886b8
+
+PODFILE CHECKSUM: ebf9e5f116e9b31c285d7bdbfadb08c604cacdc2
+
+COCOAPODS: 1.3.1
